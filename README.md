@@ -8,15 +8,9 @@
   <img src="https://img.shields.io/github/followers/ultra-ms?label=Follow">
 </p>
 
-<!-- Introduction-->
-## Welcome to my profile
+Hi, welcome to my profile! I am Marcel Steinle, dual student of Computer Science (B.Sc.). I started studying in the beginning of 2024 and finish my bachelor's degree by mid 2027. I like to ride my bicycle, meditate, build and troubleshoot computers in my freetime.
 
-I am Marcel Steinle, dual student of Computer Science (B.Sc.). I started studying in the beginning of 2024 and finish my bachelor's degree by mid 2027.
-
-I like to ride my bicycle, meditate, build and troubleshoot computers in my freetime.
-
-<!-- More Badges -->
-### Tech Stack
+## Tech Stack
 
 <table align="center">
   <tr>
