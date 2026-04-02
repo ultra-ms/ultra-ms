@@ -93,22 +93,21 @@ I like to ride my bicycle, meditate, build and troubleshoot computers in my free
 
 * Windows 10 Enterprise IoT LTSC
 * AMD Ryzen 9 5900X
-* Corsair Vengeance LPX 2x16GB 3200MHz
 * Sapphire Nitro+ RX 6950 XT 16GB Pure
 * Asus Prime X570-PRO
+* Corsair Vengeance LPX 2x16GB 3200MHz
 * Corsair H100i Platinum AiO
-* C: Corsair MP600 Pro LPX 2TB (NVME)
-* D: Crucial P1 1TB (NVME)
-* E: SanDisk SSD 1TB (SATA)
+* Corsair MP600 XT Pro 2TB
 * Corsair iCue 465 RGB
 * Peripherals:
-  * 1440p 170Hz / 1080p 60Hz
+  * Screen 1 - 32' Koorui 1440p 170Hz
+  * Screen 2 - 32' Samsung 1080p 60Hz
   * Astro A50 Gen4
   * Logitech MX Master 3S
   * Cherry G80-3000N RGB
   * Elgato Stream Deck Mini
 
-## See me on
+## Other Accounts
 
 * Discord: `ultraagent05`
 * Steam: `Ultraagent05`
