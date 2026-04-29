@@ -3,7 +3,7 @@
 
 <!-- Some Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-02.04.2026-grey?color=0099FF">
+  <img src="https://img.shields.io/badge/Version-29.04.2026-grey?color=0099FF">
   <img src="https://komarev.com/ghpvc/?username=ultra-ms&color=0099FF">
   <img src="https://img.shields.io/github/followers/ultra-ms?label=Follow">
 </p>
