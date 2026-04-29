@@ -85,9 +85,9 @@ Hi, welcome to my profile! I am Marcel Steinle, dual student of Computer Science
 
 ## My Computer Specs
 
-* Windows 11 Pro (Copilot-less)
-* AMD Ryzen 9 5800X
-* Sapphire Nitro+ RX 6950 XT 16GB Pure
+* Windows 11 Pro
+* AMD Ryzen 7 5800X
+* Sapphire Nitro+ RX 6950 XT 16GB Pure <sub>@1150mV 2350MHz</sub>
 * Asus Prime X570-PRO
 * Corsair Vengeance LPX 2x16GB 3200MHz
 * Corsair H100i Platinum AiO
