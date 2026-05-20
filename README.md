@@ -83,23 +83,23 @@ Hi, welcome to my profile! I am Marcel Steinle, dual student of Computer Science
   </tr>
 </table>
 
-## My Computer Specs
+## Main Computer
 
 * Windows 11 Pro
-* AMD Ryzen 7 5800X
-* Sapphire Nitro+ RX 6950 XT 16GB Pure <sub>@1150mV 2350MHz</sub>
+* AMD Ryzen 7 5900X
+* Sapphire Nitro+ RX 6950 XT 16GB Pure
 * Asus Prime X570-PRO
 * Corsair Vengeance LPX 2x16GB 3200MHz
-* Corsair H100i Platinum AiO
+* Thermalright Peerless Assassin 120SE White
 * Corsair MP600 XT Pro 2TB
 * Corsair iCue 465 RGB
+* MSI MPG A1000G 1000W Modular PSU
 * Peripherals:
   * Screen 1 - 32' Koorui 1440p 170Hz
   * Screen 2 - 32' Samsung 1080p 60Hz
   * Astro A50 Gen4
   * Logitech MX Master 3S
   * Cherry G80-3000N RGB
-  * Elgato Stream Deck Mini
 
 ## Other Accounts
 
